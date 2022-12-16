@@ -1,6 +1,10 @@
 {
   "name": "yn-helper",
 	"publisher": "63528605",
+	"repository": {
+		"type": "git",
+    "url": "https://github.com/wufeng87/yn-helper.git"
+	},
 	"displayName": "yn-helper",
 	"description": "",
 	"version": "0.0.1",
